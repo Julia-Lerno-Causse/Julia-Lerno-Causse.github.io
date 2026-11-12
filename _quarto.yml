@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+lang: fr
+
+website:
+  title: "Julia Lerno-Causse"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: about.qmd
+        text: Parcours
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+
+
+
