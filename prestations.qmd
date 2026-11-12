@@ -1,0 +1,38 @@
+---
+title: "Prestations"
+---
+
+## Diagnostics territoriaux et cartographie
+
+État des lieux d'un site ou d'un territoire, cartographie thématique,
+indicateurs pour l'aide à la décision.
+
+## Suivi de végétation par télédétection
+
+Suivi de revégétalisation, de reboisement ou de couvert forestier par
+imagerie satellitaire (Sentinel-2) et drone, avec analyse de séries
+temporelles.
+
+## Réhabilitation écologique — conseil et accompagnement
+
+Plans de restauration, choix d'espèces et d'itinéraires techniques,
+suivi de chantiers, formation des équipes.
+
+## Structuration de données et SIG
+
+Mise en qualité et organisation de données environnementales, bases de
+données spatiales, projets QGIS multi-thématiques.
+
+## Applications web de diagnostic
+
+Conception d'applications sur mesure (R Shiny) pour traiter des lots de
+parcelles, croiser des sources cartographiques et produire des rapports
+automatisés.
+
+## Formation
+
+Conception et animation de formations : techniques de restauration
+écologique, outils SIG, publics professionnels et adultes.
+
+Chaque mission commence par un échange sur votre besoin —
+[contactez-moi](contact.qmd).

@@ -2,4 +2,25 @@
 title: "Parcours"
 ---
 
-Contenu à venir.
+J'ai créé et dirigé pendant vingt ans trois entreprises de réhabilitation
+écologique et d'agriculture biologique en Nouvelle-Calédonie, avec des
+équipes de 5 à 45 personnes, au service des acteurs miniers, des
+collectivités et des populations locales.
+
+En 2023, j'ai repris des études pour adosser à cette expérience de terrain
+la maîtrise des données : géomatique, télédétection et analyse spatiale.
+En 2026, cette double compétence s'est concrétisée par la conception et le
+développement d'une application web de diagnostic de déforestation chez
+Nitidæ, à Montpellier.
+
+## Formations
+
+- Mastère Spécialisé SILAT — Systèmes d'Information Localisés pour
+  l'Aménagement des Territoires (en cours)
+- Master international ST2AE-GEEFT Data Manager, Institut Agro
+  Montpellier - AgroParisTech (2023-2025)
+- Télépilote de drone, CATS (2026)
+- BTSA Agronomie Tropicale (2000)
+
+<!-- Lien CV à activer quand le PDF sera dans le dépôt :
+[Télécharger mon CV (PDF)](cv_julia_lerno-causse.pdf) -->

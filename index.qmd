@@ -1,7 +1,31 @@
 ---
 title: "Julia Lerno-Causse"
+subtitle: "Agronomie, réhabilitation écologique et géomatique"
 ---
 
-Géomatique appliquée à l'agronomie, aux forêts et à la réhabilitation écologique.
+Vingt ans de terrain en Nouvelle-Calédonie — réhabilitation de sites miniers,
+restauration de forêt sèche, production de plants endémiques — complétés par
+une spécialisation en géomatique et télédétection (Mastère Spécialisé SILAT,
+Montpellier).
 
-Site en construction.
+J'aide les collectivités, les entreprises et les bureaux d'études à concevoir,
+conduire et suivre leurs projets environnementaux, du diagnostic de terrain à
+l'application de suivi.
+
+## Agronomie & réhabilitation écologique
+
+Restauration de milieux dégradés, revégétalisation, gestion des espèces
+envahissantes, conduite de chantiers et d'équipes.
+
+## Géomatique & télédétection
+
+Cartographie, analyse spatiale, suivi de la végétation par imagerie
+satellitaire, du drone au satellite.
+
+## Applications & données
+
+Structuration de données environnementales, applications web de diagnostic,
+rapports automatisés.
+
+[Mes prestations](prestations.qmd) · [Mes réalisations](realisations.qmd) ·
+[Me contacter](contact.qmd)
