@@ -2,6 +2,8 @@
 title: "Parcours"
 ---
 
+::: {.grid}
+::: {.g-col-12 .g-col-md-8}
 J'ai créé et dirigé pendant vingt ans trois entreprises de réhabilitation
 écologique et d'agriculture biologique en Nouvelle-Calédonie, avec des
 équipes de 5 à 45 personnes, au service des acteurs miniers, des
@@ -12,6 +14,11 @@ la maîtrise des données : géomatique, télédétection et analyse spatiale.
 En 2026, cette double compétence s'est concrétisée par la conception et le
 développement d'une application web de diagnostic de déforestation chez
 Nitidæ, à Montpellier.
+:::
+::: {.g-col-12 .g-col-md-4}
+![Julia Lerno-Causse, sur un chantier de revégétalisation](images/julia_terrain.jpg){style="border-radius: 14px;"}
+:::
+:::
 
 ## Formations
 

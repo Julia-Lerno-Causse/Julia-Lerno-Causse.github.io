@@ -3,6 +3,10 @@ title: "Julia Lerno-Causse"
 subtitle: "Agronomie, réhabilitation écologique et géomatique"
 ---
 
+::: {.hero}
+![Vue aérienne d'un bassin versant restauré, Nouvelle-Calédonie](images/aerien_creek_mindai.jpg)
+:::
+
 Vingt ans de terrain en Nouvelle-Calédonie — réhabilitation de sites miniers,
 restauration de forêt sèche, production de plants endémiques — complétés par
 une spécialisation en géomatique et télédétection (Mastère Spécialisé SILAT,
@@ -12,20 +16,35 @@ J'aide les collectivités, les entreprises et les bureaux d'études à concevoir
 conduire et suivre leurs projets environnementaux, du diagnostic de terrain à
 l'application de suivi.
 
-## Agronomie & réhabilitation écologique
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .card}
+![Maquis minier replanté, littoral en arrière-plan](images/maquis_replante_littoral.jpg)
+
+### Agronomie & réhabilitation écologique
 
 Restauration de milieux dégradés, revégétalisation, gestion des espèces
 envahissantes, conduite de chantiers et d'équipes.
+:::
 
-## Géomatique & télédétection
+::: {.g-col-12 .g-col-md-4 .card}
+![Vue par drone d'une zone forestière suivie](images/drone_deboisement_pins.jpg)
+
+### Géomatique & télédétection
 
 Cartographie, analyse spatiale, suivi de la végétation par imagerie
 satellitaire, du drone au satellite.
+:::
 
-## Applications & données
+::: {.g-col-12 .g-col-md-4 .card}
+![Parcelle de suivi de plantation](images/plantation_tuteurs.jpg)
+
+### Applications & données
 
 Structuration de données environnementales, applications web de diagnostic,
 rapports automatisés.
+:::
 
-[Mes prestations](prestations.qmd) · [Mes réalisations](realisations.qmd) ·
-[Me contacter](contact.qmd)
+:::
+
+[Mes prestations](prestations.qmd) · [Mes réalisations](realisations.qmd) · [Me contacter](contact.qmd)

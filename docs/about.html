@@ -45,7 +45,10 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-9d96f532d65220ca877c0304385df42f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-fd9b280cb35df4ffd5064d822cf28e04.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -149,8 +152,20 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="grid">
+<div class="g-col-12 g-col-md-8">
 <p>J’ai créé et dirigé pendant vingt ans trois entreprises de réhabilitation écologique et d’agriculture biologique en Nouvelle-Calédonie, avec des équipes de 5 à 45 personnes, au service des acteurs miniers, des collectivités et des populations locales.</p>
 <p>En 2023, j’ai repris des études pour adosser à cette expérience de terrain la maîtrise des données : géomatique, télédétection et analyse spatiale. En 2026, cette double compétence s’est concrétisée par la conception et le développement d’une application web de diagnostic de déforestation chez Nitidæ, à Montpellier.</p>
+</div>
+<div class="g-col-12 g-col-md-4">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/julia_terrain.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Julia Lerno-Causse, sur un chantier de revégétalisation"><img src="images/julia_terrain.jpg" class="img-fluid figure-img" style="border-radius: 14px;" alt="Julia Lerno-Causse, sur un chantier de revégétalisation"></a></p>
+<figcaption>Julia Lerno-Causse, sur un chantier de revégétalisation</figcaption>
+</figure>
+</div>
+</div>
+</div>
 <section id="formations" class="level2">
 <h2 class="anchored" data-anchor-id="formations">Formations</h2>
 <ul>
@@ -567,6 +582,51 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>© 2026 Julia Lerno-Causse — site construit avec Quarto</p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

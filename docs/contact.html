@@ -45,7 +45,10 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-9d96f532d65220ca877c0304385df42f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-fd9b280cb35df4ffd5064d822cf28e04.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -149,11 +152,19 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="hero">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/captage_eau_foret.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Captage d’eau au creek Mindaï, bassin versant restauré"><img src="images/captage_eau_foret.jpg" class="img-fluid figure-img" alt="Captage d’eau au creek Mindaï, bassin versant restauré"></a></p>
+<figcaption>Captage d’eau au creek Mindaï, bassin versant restauré</figcaption>
+</figure>
+</div>
+</div>
 <p>Le moyen le plus simple de me joindre :</p>
-<p><a href="https://www.linkedin.com/in/julia-ravillon">Mon profil LinkedIn</a></p>
+<p><a href="[Mon profil LinkedIn](https://www.linkedin.com/in/julia-lerno-causse)">Mon profil LinkedIn</a></p>
 <section id="zone-dintervention" class="level2">
 <h2 class="anchored" data-anchor-id="zone-dintervention">Zone d’intervention</h2>
-<p>Montpellier et Nouvelle-Calédonie — à distance.</p>
+<p>Montpellier et région — Nouvelle-Calédonie — à distance.</p>
 
 
 </section>
@@ -560,6 +571,51 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>© 2026 Julia Lerno-Causse — site construit avec Quarto</p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

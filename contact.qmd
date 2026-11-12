@@ -2,10 +2,14 @@
 title: "Contact"
 ---
 
+::: {.hero}
+![Captage d'eau au creek Mindaï, bassin versant restauré](images/captage_eau_foret.jpg)
+:::
+
 Le moyen le plus simple de me joindre :
 
-[Mon profil LinkedIn](https://www.linkedin.com/in/julia-ravillon)
+[Mon profil LinkedIn]([Mon profil LinkedIn](https://www.linkedin.com/in/julia-lerno-causse))
 
 ## Zone d'intervention
 
-Montpellier  et  Nouvelle-Calédonie — à distance.
+Montpellier et région — Nouvelle-Calédonie — à distance.

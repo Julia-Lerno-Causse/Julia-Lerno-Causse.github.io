@@ -7,6 +7,8 @@ lang: fr
 website:
   title: "Julia Lerno-Causse"
   navbar:
+    background: "#163f39"
+    foreground: "#f2efe6"
     left:
       - href: index.qmd
         text: Accueil
@@ -18,9 +20,12 @@ website:
         text: Parcours
       - href: contact.qmd
         text: Contact
+  page-footer:
+    center: "© 2026 Julia Lerno-Causse — site construit avec Quarto"
 
 format:
   html:
-    theme: flatly
+    theme: [flatly, custom.scss]
     css: styles.css
     toc: false
+    lightbox: true
