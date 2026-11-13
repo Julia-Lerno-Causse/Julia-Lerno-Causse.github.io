@@ -55,13 +55,15 @@ géofilets, travaux sur corde, suivi phénologique d'espèces rares.
 ### Production de plants endémiques
 Pépinières de Kataviti (Koné) et de la tribu de Tiwae (Touho), 2003-2023.
 Capacité de 200 000 plants, environ 300 espèces produites, recherche sur
-la multiplication des espèces locales.
+la multiplication des espèces endémiques.
 :::
 ::: {.g-col-12 .g-col-md-5}
 ![Plants endémiques en pépinière](images/pepiniere_plants.jpg)
 ![L'équipe de la pépinière](images/equipe_pepiniere.jpg)
 :::
 :::
+![Serres de production en pied de massif](images/serres_montagnes.jpg)
+
 
 ## Formation & accompagnement
 
@@ -73,7 +75,7 @@ par module : semis, greffage, repiquage, collecte de semences,
 reconnaissance d'espèces, plantation.
 :::
 ::: {.g-col-12 .g-col-md-5}
-![Serres de production en pied de massif](images/serres_montagnes.jpg)
+![Conception et animation de formations](images/formations.jpg)
 :::
 :::
 

@@ -1,18 +1,18 @@
 ---
-title: "Julia Lerno-Causse"
-subtitle: "Agronomie, réhabilitation écologique et géomatique"
+title: "Julia Lerno-Causse / Terra NC"
+subtitle: "Agronomie tropicale, réhabilitation écologique et géomatique"
 ---
 
 ::: {.hero}
 ![Vue aérienne d'un bassin versant restauré, Nouvelle-Calédonie](images/aerien_creek_mindai.jpg)
 :::
 
-Vingt ans de terrain en Nouvelle-Calédonie — réhabilitation de sites miniers,
-restauration de forêt sèche, production de plants endémiques — complétés par
+Vingt ans de terrain en Nouvelle-Calédonie, réhabilitation de sites miniers,
+restauration de forêt sèche, production de plants endémiques, complétés par
 une spécialisation en géomatique et télédétection (Mastère Spécialisé SILAT,
 Montpellier).
 
-J'aide les collectivités, les entreprises et les bureaux d'études à concevoir,
+J'accompagne les collectivités, les entreprises et les bureaux d'études à concevoir,
 conduire et suivre leurs projets environnementaux, du diagnostic de terrain à
 l'application de suivi.
 

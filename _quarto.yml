@@ -21,7 +21,7 @@ website:
       - href: contact.qmd
         text: Contact
   page-footer:
-    center: "© 2026 Julia Lerno-Causse — site construit avec Quarto"
+    center: "© 2026 Julia Lerno-Causse / Terra NC — site construit avec Quarto"
 
 format:
   html:

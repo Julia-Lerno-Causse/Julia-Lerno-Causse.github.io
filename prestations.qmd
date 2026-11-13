@@ -56,7 +56,7 @@ Conception et animation de formations : techniques de restauration
 
 :::
 
-## Ils ont travaillé avec moi
+## Nous avons travaillé ensemble
 
 ::: {.grid}
 
@@ -82,9 +82,18 @@ d'une personnalité chaleureuse et toujours prête à aider les autres.
 C'est une personne fiable avec qui il est agréable de travailler. »
 
 **Hortence Lecercle** — Cheffe de projets, OFB Nouvelle-Calédonie
-:::
 
 :::
+
+
+:::
+
+
 
 Chaque mission commence par un échange sur votre besoin —
 [contactez-moi](contact.qmd).
+
+
+![](images/logo_terra_nc.png){width=160 fig-alt="Logo Terra NC"}
+
+Prestations portées par **Terra NC**
