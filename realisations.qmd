@@ -112,7 +112,7 @@ projets environnementaux.
 :::
 :::
 
-## La flore au cœur de ces projets
+## La flore endémique au cœur de ces projets
 
 ::: {.grid}
 ::: {.g-col-4}
@@ -126,4 +126,3 @@ projets environnementaux.
 :::
 :::
 
-*Cartes de démonstration sur données publiques : à venir.*

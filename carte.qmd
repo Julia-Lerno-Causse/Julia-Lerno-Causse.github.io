@@ -1,0 +1,89 @@
+---
+title: "Carte des chantiers"
+---
+
+Mes principaux sites de travail en Nouvelle-Calédonie (positions à l'échelle
+de la commune). Fond plan ou satellite, détail et zoom au clic sur chaque
+point.
+
+
+```{r}
+#| echo: true
+#| code-fold: true
+#| code-summary: "Voir le code R de la carte"
+#| warning: false
+#| message: false
+library(leaflet)
+
+sites <- data.frame(
+  nom = c("Revégétalisation du maquis minier — Massif du Koniambo (KNS)",
+          "Restauration de la forêt sèche — Vavouto (KNS)",
+          "Restauration de la forêt sèche — Pindaï (ANCB, CEN)",
+          "Restauration de la forêt sèche — Nékoro (ANCB, CEN)",
+          "Mines de Nakéty (Ballande)",
+          "Mine de Cap Bocage (Ballande)",
+          "Mine de Burdigala — commune de Poya",
+          "Mine Tunney — commune de Kaala-Gomen",
+          "Massifs NMC — secteur de Ouaco",
+          "Chantier école — ancien site minier de Bel-Air (Houaïlou)",
+          "Bassin versant du creek Mindaï — Houaïlou",
+          "Plantation de palétuviers — Ducos, Nouméa",
+          "Pépinière de Kataviti — Koné",
+          "Pépinière et agroforesterie — tribu de Tiwaé, Touho (SCA Green Farm)",
+          "Pépinière de Nakéty",
+          "Pépinières communales de Houaïlou",
+          "Formations — CFPPA de Pouembout",
+          "Formation revégétalisation — Nakéty",
+          "Plantation de Pinus, sylviculture — Tango, Koné (DDEE Province Nord)"),
+  periode = c("2010-2019", "", "depuis 2009", "2009-2019",
+              "2008-2015", "2008-2018", "2011", "2012", "",
+              "2022", "2021-2023", "", "2003-2023", "2013-2023",
+              "", "", "2010-2020", "", ""),
+  type = c("Revégétalisation minière", "Forêt sèche", "Forêt sèche",
+           "Forêt sèche", "Revégétalisation minière",
+           "Revégétalisation minière", "Revégétalisation minière",
+           "Revégétalisation minière", "Revégétalisation minière",
+           "Revégétalisation minière", "Eau & littoral", "Eau & littoral",
+           "Pépinières & agroforesterie", "Pépinières & agroforesterie",
+           "Pépinières & agroforesterie", "Pépinières & agroforesterie",
+           "Formation", "Formation", "Sylviculture"),
+  lat = c(-20.99, -20.96, -21.33, -21.38, -21.53, -21.20, -21.35,
+          -20.67, -20.85, -21.30, -21.28, -22.25, -21.06, -20.78,
+          -21.54, -21.29, -21.13, -21.52, -21.03),
+  lng = c(164.79, 164.67, 164.95, 165.05, 165.98, 165.66, 165.16,
+          164.40, 164.50, 165.62, 165.63, 166.43, 164.86, 165.23,
+          165.99, 165.64, 164.90, 165.97, 164.97)
+)
+
+pal <- colorFactor(
+  palette = c("#a8552f", "#d4a017", "#4a7c59", "#1d5c52", "#6c5b9e", "#2e86ab"),
+  levels = c("Revégétalisation minière", "Forêt sèche", "Sylviculture",
+             "Pépinières & agroforesterie", "Formation", "Eau & littoral")
+)
+
+leaflet(sites, height = 600) |>
+  addTiles(group = "Plan (OpenStreetMap)") |>
+  addProviderTiles("Esri.WorldImagery", group = "Satellite (Esri)") |>
+  addCircleMarkers(lng = ~lng, lat = ~lat, radius = 8,
+                   color = ~pal(type), fillOpacity = 0.85, stroke = FALSE,
+                   popup = ~paste0("<b>", nom, "</b><br>", type,
+                                   ifelse(periode == "", "",
+                                          paste0(" · ", periode)))) |>
+  addLegend(position = "bottomright", pal = pal, values = ~type,
+            title = "Type de chantier") |>
+  addLayersControl(baseGroups = c("Plan (OpenStreetMap)", "Satellite (Esri)"),
+                   options = layersControlOptions(collapsed = FALSE)) |>
+    addScaleBar(position = "bottomleft") |>
+  htmlwidgets::onRender("
+    function(el, x) {
+      var map = this;
+      map.eachLayer(function(layer) {
+        if (layer instanceof L.CircleMarker) {
+          layer.on('click', function(e) {
+            map.setView(e.latlng, 12);
+          });
+        }
+      });
+    }
+  ")
+```
