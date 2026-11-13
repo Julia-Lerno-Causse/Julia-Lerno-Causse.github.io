@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - images/cv_lerno-causse-julia.pdf
 
 lang: fr
 

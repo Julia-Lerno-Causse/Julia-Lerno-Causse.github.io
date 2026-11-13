@@ -9,7 +9,7 @@ Mon expertise couvre la gestion de projets environnementaux,
 la revégétalisation de sites miniers et la restauration de la forêt sèche.
 Forte d’une expérience en gestion d’entreprise et en coordination de chantiers de grande
 envergure, je souhaite aujourd’hui mettre mes compétences au service de structures
-spécialisés dans la conception et la réalisation de projets environnementaux.
+spécialisées dans la conception et la réalisation de projets environnementaux.
 
 En 2023, j'ai repris des études pour adosser à cette expérience de terrain
 la maîtrise des données : géomatique, télédétection et analyse spatiale.
@@ -43,8 +43,7 @@ Systèmes d'Information Localisés pour l'Aménagement des Territoires (en cours
 Institut Agro Montpellier - AgroParisTech _  Montpellier (2023-2025)
 - Télépilote de drone, CATS _Formadrone (2026)
 - Agrément animateur de formation _ CNAM (2021)
-- Management général avancé,CESA Dirigeants de PME - HEC Paris (2013–2015) ·  
+- Management général avancé,CESA Dirigeants de PME - HEC Paris (2013–2015)  
 - BTSA Agronomie Tropicale _ LEGTA Guadeloupe (2000)
 
-<!-- Lien CV à activer quand le PDF sera dans le dépôt :
-[Télécharger mon CV (PDF)](cv_julia_lerno-causse.pdf) -->
+[📄 Télécharger mon CV (PDF)](images/cv_lerno-causse-julia.pdf){.btn .btn-primary}
