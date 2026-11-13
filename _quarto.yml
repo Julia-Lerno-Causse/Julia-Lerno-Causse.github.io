@@ -5,7 +5,7 @@ project:
 lang: fr
 
 website:
-  title: "Julia Lerno-Causse"
+  title: "Julia Lerno-Causse / Terra NC"
   navbar:
     background: "#163f39"
     foreground: "#f2efe6"
