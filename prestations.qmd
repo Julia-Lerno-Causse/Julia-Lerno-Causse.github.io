@@ -57,7 +57,7 @@ réception de chantiers, gestion des espèces envahissantes.
 :::
 
 ::: {.g-col-12 .g-col-md-4 .card}
-![Mosaïque de forêt sèche et de savane](images/foret_seche_savane.jpg)
+[![Carte des chantiers menés en Nouvelle-Calédonie](images/carte_chantiers.jpg)](carte.qmd)
 
 ### Diagnostic territorial, cartographie et données
 
