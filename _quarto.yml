@@ -20,12 +20,14 @@ website:
         text: Réalisations
       - href: carte.qmd
         text: Carte
+      - href: references.qmd
+        text: Références
       - href: about.qmd
         text: Parcours
       - href: contact.qmd
         text: Contact
   page-footer:
-    left: "[Accueil](index.qmd) · [Prestations](prestations.qmd) · [Réalisations](realisations.qmd) · [Carte](carte.qmd) · [Parcours](about.qmd) · [Contact](contact.qmd)"
+    left: "[Accueil](index.qmd) · [Prestations](prestations.qmd) · [Réalisations](realisations.qmd) · [Carte](carte.qmd) · [Références](references.qmd) · [Parcours](about.qmd) · [Contact](contact.qmd)"
     center: "© 2026 Julia Lerno-Causse / Terra NC — site construit avec Quarto"
 
 format:

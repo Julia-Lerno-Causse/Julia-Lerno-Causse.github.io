@@ -33,14 +33,9 @@ Mes trois entreprises calédoniennes :
 ::: {.g-col-4 style="text-align: center;"}
 ![](images/logo_terra_nc.png){width=150 fig-alt="Logo Terra NC"}
 :::
-::: {.grid}
-::: {.g-col-12 .g-col-md-8 .card}
-« Mme Lerno-Causse est dynamique, extrêmement enjouée et agréable, dotée
-d'une personnalité chaleureuse et toujours prête à aider les autres.
-C'est une personne fiable avec qui il est agréable de travailler. »
-
-**Hortence Lecercle** — Cheffe de projets, OFB Nouvelle-Calédonie
 :::
+:::
+
 ## Formations
 
 - Mastère Spécialisé SILAT — AgroParisTech _  Montpellier

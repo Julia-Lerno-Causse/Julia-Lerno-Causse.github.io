@@ -3,55 +3,41 @@ title: "Prestations"
 ---
 
 ::: {.hero}
-![Talus minier revégétalisé](images/talus_revegetalise.jpg)
+![Suivi d'un site revégétalisé, cinq mois après plantation](images/suivi_bel_air.jpg)
 :::
 
 Des prestations qui relient le terrain et la donnée — et, pour chaque mission,
 des livrables vérifiables.
 
-## Suivi de revégétalisation et d'emprises
+## Suivi de la végétation de vos sites
 
 ::: {.grid}
 
 ::: {.g-col-12 .card}
-Vous êtes responsable d'une emprise — concession minière, parcelles
+Vous êtes responsable d'un site — concession minière, parcelles
 revégétalisées, aire protégée, périmètre de captage — et vous devez rendre
-compte de l'évolution de sa végétation à une administration, un bailleur ou
-votre direction.
+compte de l'évolution de sa végétation.
 
-J'établis un état zéro de la végétation à une date de référence, puis je suis
-les changements à intervalle convenu, en croisant imagerie satellitaire
-(Sentinel-2), drone et relevés de terrain. J'interprète les évolutions en
-écologue de terrain : ce qui s'installe, ce qui régresse, ce qui doit être
-repris.
+J'établis un état zéro à une date de référence, puis je suis les changements
+à intervalle convenu, en croisant imagerie satellitaire (Sentinel-2), drone
+et relevés de terrain — interprétés en écologue : ce qui s'installe, ce qui
+régresse, ce qui doit être repris.
 
-**Vous recevez :**
+**Vous recevez :** un rapport par site, auditable (images sources et dates,
+incertitudes explicites), les couches SIG réutilisables dans vos outils et
+une synthèse décideur d'une page.
 
-- un rapport par emprise, auditable : images sources et dates, règles de
-  décision, incertitudes explicites ;
-- les couches SIG, livrées et réutilisables dans vos outils ;
-- une synthèse décideur d'une page.
+**Pour qui :** mineurs et sous-traitants, provinces et observatoires,
+gestionnaires d'aires protégées, organismes de reboisement, bureaux d'études.
 
-**Pour qui :** mineurs et sous-traitants de revégétalisation, provinces et
-observatoires, organismes de reboisement, gestionnaires d'aires protégées,
-bureaux d'études en sous-traitance.
+**L'atout Terra NC :** vingt ans de chantiers de revégétalisation en
+Nouvelle-Calédonie (2001-2023) — j'interprète ce que les images montrent
+parce que j'ai planté, suivi et réceptionné ces chantiers sur le terrain.
 
-**Ce que Terra NC apporte de particulier :** vingt ans de conduite de chantiers
-de revégétalisation en Nouvelle-Calédonie (2001-2023). J'interprète ce que les
-images montrent parce que j'ai planté, suivi et réceptionné ces chantiers sur
-le terrain.
-
-**Modalités :** état zéro en forfait, puis suivi à rendez-vous périodique
-(annuel ou saisonnier). Chaque mission commence par un échange de cadrage.
+**Modalités :** état zéro au forfait, puis suivi périodique (annuel ou
+saisonnier).
 :::
 
-::: {.g-col-12 .g-col-md-8 .card}
-« Julia Lerno-Causse a apporté son expertise dans la revégétalisation de
-sites miniers. Son savoir-faire et sa gestion efficace des équipes ont été
-des atouts majeurs. »
-
-**Jean-Louis Thydjepache** — Chef de département RSE, Koniambo Nickel SAS
-:::
 
 :::
 
@@ -60,6 +46,8 @@ des atouts majeurs. »
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4 .card}
+![Paillage sur un chantier de restauration de forêt sèche](images/paillage_foret_seche.jpg)
+
 ### Réhabilitation écologique — conseil et accompagnement
 
 Plans de restauration, choix d'espèces et d'itinéraires techniques, suivi et
@@ -69,17 +57,20 @@ réception de chantiers, gestion des espèces envahissantes.
 :::
 
 ::: {.g-col-12 .g-col-md-4 .card}
+![Mosaïque de forêt sèche et de savane](images/foret_seche_savane.jpg)
+
 ### Diagnostic territorial, cartographie et données
 
-État des lieux d'un site ou d'un territoire, structuration de données
-environnementales, SIG, cartographie thématique, indicateurs — et, quand le
-besoin le justifie, application web sur mesure pour traiter des lots de
-parcelles et automatiser les rapports.
+État des lieux d'un site ou d'un territoire, SIG et cartographie thématique,
+structuration de données, indicateurs — jusqu'à l'application web sur mesure
+qui automatise les rapports.
 
 *Pour qui : collectivités, bureaux d'études, gestionnaires d'espaces naturels.*
 :::
 
 ::: {.g-col-12 .g-col-md-4 .card}
+![Geste technique de plantation](images/planteur_accroupi.jpg)
+
 ### Formation et transfert
 
 Techniques de restauration écologique, outils SIG, chantiers-écoles,
@@ -88,13 +79,6 @@ accompagnement des équipes vers l'autonomie.
 *Pour qui : équipes techniques, organisations professionnelles.*
 :::
 
-::: {.g-col-12 .g-col-md-8 .card}
-« Mme Lerno-Causse a démontré une grande capacité d'analyse des enjeux et
-une expertise technique pointue. Son engagement et son professionnalisme
-ont été remarquables. »
-
-**Julie Petit** — Coordinatrice PROTEGE NC, CPS Communauté du Pacifique
-:::
 
 :::
 

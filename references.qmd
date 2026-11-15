@@ -1,0 +1,65 @@
+---
+title: "Ils m'ont fait confiance"
+---
+
+Vingt ans de chantiers pour les acteurs miniers, les institutions et les
+collectivités de Nouvelle-Calédonie.
+
+## Témoignages
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .card}
+« Julia Lerno-Causse a apporté son expertise dans la revégétalisation de
+sites miniers. Son savoir-faire et sa gestion efficace des équipes ont été
+des atouts majeurs. »
+
+**Jean-Louis Thydjepache** — Chef de département RSE, Koniambo Nickel SAS
+:::
+
+::: {.g-col-12 .g-col-md-4 .card}
+« Mme Lerno-Causse a démontré une grande capacité d'analyse des enjeux et
+une expertise technique pointue. Son engagement et son professionnalisme
+ont été remarquables. »
+
+**Julie Petit** — Coordinatrice PROTEGE NC, CPS Communauté du Pacifique
+:::
+
+::: {.g-col-12 .g-col-md-4 .card}
+« Mme Lerno-Causse est dynamique, extrêmement enjouée et agréable, dotée
+d'une personnalité chaleureuse et toujours prête à aider les autres.
+C'est une personne fiable avec qui il est agréable de travailler. »
+
+**Hortence Lecercle** — Cheffe de projets, OFB Nouvelle-Calédonie
+:::
+
+:::
+
+## Donneurs d'ordre
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .card}
+### Acteurs miniers
+
+Koniambo Nickel SAS · Ballande · NMC
+:::
+
+::: {.g-col-12 .g-col-md-4 .card}
+### Institutions et collectivités
+
+Agence néo-calédonienne de la biodiversité · Commune de Houaïlou (projet
+PROTEGE) · Fonds Nickel / DIMENC · CPS Communauté du Pacifique · OFB
+Nouvelle-Calédonie
+:::
+
+::: {.g-col-12 .g-col-md-4 .card}
+### Formation
+
+CFPPA de Pouembout
+:::
+
+:::
+
+Les projets correspondants sont détaillés sur [Réalisations](realisations.qmd)
+et localisés sur la [Carte](carte.qmd).

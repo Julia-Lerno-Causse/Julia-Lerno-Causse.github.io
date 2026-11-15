@@ -13,3 +13,13 @@ h1, h2, h3 { font-weight: 600; }
 .card h3 { font-size: 1.05rem; margin: .75rem 1rem .25rem 1rem; }
 .card p { margin: 0 1rem 1rem 1rem; font-size: .95rem; }
 .grid { gap: 1rem; }
+
+/* Petits écrans (mobile) */
+@media (max-width: 768px) {
+  .hero img { max-height: 200px; border-radius: 12px; }
+  h1, .title { font-size: 1.55rem; }
+  h2 { font-size: 1.25rem; }
+  h3 { font-size: 1.05rem; }
+  .card img { height: 150px; }
+  .grid { gap: .75rem; }
+}

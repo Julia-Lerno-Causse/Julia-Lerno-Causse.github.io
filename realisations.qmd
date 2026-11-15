@@ -62,7 +62,8 @@ la multiplication des espèces endémiques.
 :::
 ::: {.g-col-12 .g-col-md-12}
 ![Serres de production en pied de massif](images/serres.png)
-
+:::
+:::
 
 ## Formation & accompagnement
 
@@ -74,7 +75,7 @@ par module : semis, greffage, repiquage, collecte de semences,
 reconnaissance d'espèces, plantation.
 :::
 ::: {.g-col-12 .g-col-md-12}
-![Conception et animation de formations](images/formations.png)
+![Conception et animation de formations](images/formations.jpg)
 :::
 :::
 
