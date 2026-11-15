@@ -87,3 +87,8 @@ leaflet(sites, height = 600) |>
     }
   ")
 ```
+
+::: {style="text-align: center; margin-top: 1.5rem;"}
+[Mes réalisations](realisations.qmd){.btn .btn-primary}
+[Me contacter](contact.qmd){.btn .btn-primary}
+:::

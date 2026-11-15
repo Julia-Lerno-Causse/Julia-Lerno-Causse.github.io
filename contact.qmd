@@ -14,3 +14,8 @@ Le moyen le plus simple de me joindre :
 
 Montpellier — Nouvelle-Calédonie 
 Disponible pour découvrir de nouveaux écosystèmes avec vous
+
+::: {style="text-align: center; margin-top: 1.5rem;"}
+[Mes prestations](prestations.qmd){.btn .btn-primary}
+[Mes réalisations](realisations.qmd){.btn .btn-primary}
+:::

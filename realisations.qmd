@@ -127,3 +127,8 @@ projets environnementaux.
 :::
 :::
 
+::: {style="text-align: center; margin-top: 1.5rem;"}
+[La carte des chantiers](carte.qmd){.btn .btn-primary}
+[Mes prestations](prestations.qmd){.btn .btn-primary}
+[Me contacter](contact.qmd){.btn .btn-primary}
+:::

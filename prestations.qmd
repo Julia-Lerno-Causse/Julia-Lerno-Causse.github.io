@@ -115,6 +115,7 @@ Chaque mission commence par un échange sur votre besoin.
 
 ::: {style="text-align: center;"}
 [Contactez-moi](contact.qmd){.btn .btn-primary}
+[Mes réalisations](realisations.qmd){.btn .btn-primary}
 :::
 
 ![](images/logo_terra_nc.png){width=160 fig-alt="Logo Terra NC"}
