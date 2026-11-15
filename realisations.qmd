@@ -2,77 +2,101 @@
 title: "Réalisations"
 ---
 
-Une sélection de projets menés au sein de mes entreprises en
-Nouvelle-Calédonie (2003-2023), puis dans le cadre de ma spécialisation
-en géomatique (depuis 2023). Cliquez sur une photo pour l'agrandir.
+Une sélection de projets menés au sein de mes entreprises en Nouvelle-Calédonie (2003-2023),\
+
+puis dans le cadre de ma spécialisation en géomatique (depuis 2023).
+
+Cliquez sur une photo pour l'agrandir.
+
+![Chantier de plantation sur crête minière (panorama)](images/pano_plantation_maquis.jpg)
 
 ## Réhabilitation écologique — Nouvelle-Calédonie
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-7}
 ### Restauration de la forêt sèche
-Côte Ouest, 2009-2020 — pour l'Agence néo-calédonienne de la biodiversité
-et Koniambo Nickel SAS.
-Production et plantation de plus de 25 000 plants par an, semences
-collectées aux abords des zones à restaurer, expérimentation d'itinéraires
-techniques et mise en défens anti-cerfs.
+Côte Ouest Vavouto, (2009-2020) pour Koniambo Nickel SAS.
+
+Production et plantation de plus de 25 000 plants par an, 
+semences collectées aux abords des zones à restaurer, 
+expérimentation d'itinéraires techniques et mise en défens anti-cerfs.
 :::
 ::: {.g-col-12 .g-col-md-5}
-![Plantation en forêt sèche](images/plantation_rangees.jpg)
+![Restauration de la forêt sèche](images/plantation_rangees.jpg)
+
 :::
 :::
 
 ::: {.grid}
-::: {.g-col-12 .g-col-md-7}
+::: {.g-col-12 .g-col-md-12}
 ### Réhabilitation du bassin versant du creek Mindaï
-Tribu de Bâ, Houaïlou, 2021-2023 — commune de Houaïlou, projet PROTEGE.
-Suppression de 10 ha de pins envahissants, reboisement de 12 ha avec
-12 000 plants endémiques, 2 000 mètres de clôtures anti-cerfs et cochons,
+Tribu de Bâ, Houaïlou, (2021-2023) commune de Houaïlou, projet PROTEGE.
+Suppression de 10 ha de pins envahissants, 
+reboisement de 12 ha avec 12 000 plants endémiques, 
+2 000 mètres de clôtures anti-cerfs et cochons,
 participation des populations locales aux plantations et au suivi.
 :::
 ::: {.g-col-12 .g-col-md-5}
-![Le creek Mindaï en forêt humide](images/riviere_foret_humide.jpg)
 :::
 :::
 
 ![Plantation participative avec les habitants de la tribu de Bâ](images/plantation_participative_mindai.jpg)
 
 ::: {.grid}
-::: {.g-col-12 .g-col-md-7}
+::: {.g-col-8 .g-col-md-12}
 ### Revégétalisation du maquis minier
-2003-2023 — acteurs miniers et collectivités (KNS, Ballande, NMC...).
-Production annuelle de 80 000 plants endémiques, plantation de 30 000
-plants par an, semis hydraulique (20 000 m² par an), pose de boudins et
-géofilets, travaux sur corde, suivi phénologique d'espèces rares.
+2003-2023, acteurs miniers et collectivités (KNS, Ballande, NMC...).
+
+Production annuelle de 80 000 plants endémiques,
+plantation de 30 000 plants par an, 
+semis hydraulique (20 000 m² par an), 
+pose de boudins et géofilets, travaux sur corde, 
+suivi phénologique d'espèces rares.
 :::
-::: {.g-col-12 .g-col-md-5}
+::: {.g-col-12 .g-col-md-6}
 ![Semis hydraulique sur talus minier](images/hydroseeding_talus.jpg)
 :::
+::: {.g-col-12 .g-col-md-6}
+![Levée d'un semis hydraulique](images/hydroseeding_levee.jpg)
 :::
+:::
+
+::: {.grid}
+::: {.g-col-6 .g-col-md-6}
+![Pose de géofilets en travaux sur corde](images/geofilet_corde.jpg)
+:::
+::: {.g-col-6 .g-col-md-6}
+![Topsoil et semis en poquets — Nakéty](images/topsoil_nakety.jpg)
+:::
+
+:::
+:::
+
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-7}
 ### Production de plants endémiques
 Pépinières de Kataviti (Koné) et de la tribu de Tiwae (Touho), 2003-2023.
-Capacité de 200 000 plants, environ 300 espèces produites, recherche sur
-la multiplication des espèces endémiques.
+Capacité de 200 000 plants, environ 300 espèces produites, 
+recherche surla multiplication des espèces endémiques.
 :::
 ::: {.g-col-12 .g-col-md-5}
 ![L'équipe de la pépinière](images/equipe_pepiniere.jpg)
+
 :::
-::: {.g-col-12 .g-col-md-12}
-![Serres de production en pied de massif](images/serres.png)
+::: {.g-col-12 .g-col-md-18}
+![Serres de production au pied du massif du Koniambo](images/serres.png)
 :::
 :::
 
 ## Formation & accompagnement
 
 ::: {.grid}
-::: {.g-col-12 .g-col-md-7}
-### Formations aux métiers du végétal et de la restauration
-CFPPA de Pouembout, 2010-2020 — environ 50 h par an, 8 à 12 apprenants
-par module : semis, greffage, repiquage, collecte de semences,
-reconnaissance d'espèces, plantation.
+::: {.g-col-12 .g-col-md-12}
+### Formations aux métiers du végétal et de la restauration écologique
+CFPPA de Pouembout (2010-2020), environ 50 h par an, 8 à 12 apprenants par module :
+
+semis, greffage, repiquage, collecte de semences, reconnaissance d'espèces, plantation.
 :::
 ::: {.g-col-12 .g-col-md-12}
 ![Conception et animation de formations](images/formations.jpg)
@@ -80,14 +104,17 @@ reconnaissance d'espèces, plantation.
 :::
 
 ::: {.grid}
-::: {.g-col-12 .g-col-md-7}
+::: {.g-col-12 .g-col-md-}
 ### Chantier école de revégétalisation
 Ancien site minier de Bel-Air, Houaïlou, 2022 — Fonds Nickel, DIMENC.
 3 238 plants d'espèces indigènes et endémiques, 1 821 m² de semis
 hydraulique, formation des participants aux techniques de plantation.
 :::
-::: {.g-col-12 .g-col-md-5}
+::: {.g-col-12 .g-col-md-6}
 ![Le site de Bel-Air, cinq mois après plantation](images/suivi_bel_air.jpg)
+:::
+::: {.g-col-12 .g-col-md-6}
+![Plantation participative sur le chantier école](images/plantation_belair_participative.jpg)
 :::
 :::
 
@@ -105,11 +132,23 @@ automatisés, protection des données personnelles.
 ::: {.g-col-12 .g-col-md-7}
 ### Cartographie et suivi par drone et satellite
 Terra Native Consulting, depuis 2023.
-Production de cartes et d'images drone et satellite pour le suivi de
-projets environnementaux.
+Production de cartes et d'images drone et satellite pour le suivi de projets environnementaux.
 :::
 ::: {.g-col-12 .g-col-md-5}
 ![Suivi par drone d'une zone de chantier forestier](images/drone_deboisement_pins.jpg)
+:::
+:::
+
+::: {.grid}
+::: {.g-col-6 .g-col-md-4}
+![Suivi phénologique sur tablette (vue drone)](images/suivi_pheno_tablette.jpg)
+:::
+
+::: {.g-col-6 .g-col-md-4}
+![Parcelle revégétalisée vue du drone](images/drone_parcelle_reveg.jpg)
+:::
+::: {.g-col-6 .g-col-md-4}
+![Côte Oubliée (Thio) — repérage pour le reboisement, Terra NC 2023](images/cote_oubliee_thio.jpg)
 :::
 :::
 
