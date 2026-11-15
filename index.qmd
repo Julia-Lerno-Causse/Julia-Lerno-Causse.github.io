@@ -44,4 +44,8 @@ rapports automatisés.
 
 :::
 
-[Mes prestations](prestations.qmd) · [Mes réalisations](realisations.qmd) · [Me contacter](contact.qmd)
+::: {style="text-align: center; margin-top: 1.5rem;"}
+[Mes prestations](prestations.qmd){.btn .btn-primary}
+[Mes réalisations](realisations.qmd){.btn .btn-primary}
+[Me contacter](contact.qmd){.btn .btn-primary}
+:::

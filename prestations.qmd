@@ -111,8 +111,11 @@ Réalisation, points d'étape convenus, livraison — et transfert pour que vos
 Quatre formats selon le besoin : étude ponctuelle, suivi périodique,
 sous-traitance d'un bureau d'études, renfort temporaire d'équipe.
 
-Chaque mission commence par un échange sur votre besoin —
-[contactez-moi](contact.qmd).
+Chaque mission commence par un échange sur votre besoin.
+
+::: {style="text-align: center;"}
+[Contactez-moi](contact.qmd){.btn .btn-primary}
+:::
 
 ![](images/logo_terra_nc.png){width=160 fig-alt="Logo Terra NC"}
 
