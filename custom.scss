@@ -33,3 +33,11 @@ h1, h2, h3 { font-weight: 600; }
   .nav-footer .nav-footer-left,
   .nav-footer .nav-footer-right { float: none; text-align: center; width: 100%; }
 }
+
+/* Pied de page : navigation en boutons */
+.nav-footer .nav-footer-left a {
+  display: inline-block; background: $primary; color: #f2efe6;
+  padding: .3rem .7rem; border-radius: .375rem; margin: .15rem;
+  text-decoration: none; font-size: .9rem;
+}
+.nav-footer .nav-footer-left a:hover { background: #163f39; color: #ffffff; }
