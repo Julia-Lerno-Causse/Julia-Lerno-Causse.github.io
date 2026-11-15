@@ -84,6 +84,9 @@ accompagnement des équipes vers l'autonomie.
 
 ## Comment on travaille ensemble
 
+Quatre formats selon le besoin : étude ponctuelle, suivi périodique,
+sous-traitance d'un bureau d'études, renfort temporaire d'équipe.
+
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4 .card}
@@ -108,15 +111,15 @@ Réalisation, points d'étape convenus, livraison — et transfert pour que vos
 
 :::
 
-Quatre formats selon le besoin : étude ponctuelle, suivi périodique,
-sous-traitance d'un bureau d'études, renfort temporaire d'équipe.
-
 Chaque mission commence par un échange sur votre besoin.
 
 ::: {style="text-align: center;"}
 [Contactez-moi](contact.qmd){.btn .btn-primary}
 :::
 
+::: {style="background: #ffffff; border-radius: 14px; padding: 1rem 1.25rem; box-shadow: 0 2px 12px rgba(22,63,57,.10); text-align: center; margin-top: 1.5rem;"}
 ![](images/logo_terra_nc.png){width=160 fig-alt="Logo Terra NC"}
 
 Prestations portées par **Terra NC**
+:::
+{{< include _nav.qmd >}}

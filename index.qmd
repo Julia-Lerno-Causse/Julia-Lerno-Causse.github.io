@@ -43,3 +43,4 @@ rapports automatisés.
 :::
 
 :::
+{{< include _nav.qmd >}}

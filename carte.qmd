@@ -88,3 +88,4 @@ leaflet(sites, height = 600) |>
   ")
 ```
 
+{{< include _nav.qmd >}}

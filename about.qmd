@@ -49,3 +49,4 @@ Institut Agro Montpellier - AgroParisTech _  Montpellier (2023-2025)
 
 [📄 Télécharger mon CV (PDF)](images/cv_lerno-causse-julia.pdf){.btn .btn-primary}
 
+{{< include _nav.qmd >}}

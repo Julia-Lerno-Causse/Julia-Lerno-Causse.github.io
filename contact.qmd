@@ -15,3 +15,4 @@ Le moyen le plus simple de me joindre :
 Montpellier — Nouvelle-Calédonie 
 Disponible pour découvrir de nouveaux écosystèmes avec vous
 
+{{< include _nav.qmd >}}

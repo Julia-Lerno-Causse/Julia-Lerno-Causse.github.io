@@ -1,0 +1,3 @@
+::: {style="text-align: center; margin-top: 2.5rem;"}
+[Accueil](index.qmd){.btn .btn-primary .btn-sm} [Prestations](prestations.qmd){.btn .btn-primary .btn-sm} [Réalisations](realisations.qmd){.btn .btn-primary .btn-sm} [Carte](carte.qmd){.btn .btn-primary .btn-sm} [Références](references.qmd){.btn .btn-primary .btn-sm} [Parcours](about.qmd){.btn .btn-primary .btn-sm} [Contact](contact.qmd){.btn .btn-primary .btn-sm}
+:::

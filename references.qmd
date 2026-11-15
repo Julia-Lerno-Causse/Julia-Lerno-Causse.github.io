@@ -60,4 +60,4 @@ CFPPA de Pouembout
 :::
 
 :::
-
+{{< include _nav.qmd >}}
