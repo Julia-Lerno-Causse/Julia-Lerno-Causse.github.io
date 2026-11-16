@@ -6,8 +6,8 @@ title: "Prestations"
 ![Suivi d'un site revégétalisé, cinq mois après plantation](images/suivi_bel_air.jpg)
 :::
 
-Des prestations qui relient le terrain et la donnée, et pour chaque mission,
-des livrables vérifiables.
+**Des prestations qui relient le terrain et la donnée, et pour chaque mission,
+des livrables vérifiables.**
 
 ## Suivi de la végétation de vos sites
 
@@ -21,18 +21,23 @@ et vous devez rendre compte de l'évolution de sa végétation.
 J'établis un état zéro à une date de référence, 
 puis je suis les changements à intervalle convenu, 
 en croisant imagerie satellitaire, drone et relevés de terrain;
+interprétés en écologue : *ce qui s'installe, ce qui régresse, ce qui doit être repris.*
 
-interprétés en écologue : ce qui s'installe, ce qui régresse, ce qui doit être repris.
+**Vous recevez :** 
 
-**Vous recevez :** un rapport par site, auditable (images sources et dates,
-incertitudes explicites), 
-les couches SIG réutilisables dans vos outils et une synthèse décideur d'une page.
+- un rapport par site, auditable (images sources et dates,incertitudes explicites), 
 
-**Pour qui :** mineurs et sous-traitants, provinces et observatoires,
+- les couches SIG réutilisables dans vos outils 
+
+- et une synthèse.
+
+**Pour qui :** 
+Mineurs et sous-traitants, provinces et observatoires,
 gestionnaires d'aires protégées, organismes de reboisement, bureaux d'études.
 
-**L'atout Terra NC :** vingt ans de chantiers de revégétalisation en Nouvelle-Calédonie (2001-2023),
-j'interprète ce que les images montrent parce que j'ai l'expérience du terrain.
+**L'atout Terra NC :** 
+Vingt ans de chantiers de revégétalisation en Nouvelle-Calédonie (2001-2023);
+*Interprétation de ce que les images montrent avec la réalité et l'expertise du terrain.*
 
 **Modalités :** état zéro au forfait, puis suivi périodique (annuel ou saisonnier).
 :::
@@ -52,7 +57,12 @@ j'interprète ce que les images montrent parce que j'ai l'expérience du terrain
 Plans de restauration, choix d'espèces et d'itinéraires techniques, suivi et
 réception de chantiers, gestion des espèces envahissantes.
 
-#### Pour qui : mineurs et sous-traitants, collectivités, associations.
+### Pour qui : 
+**Mineurs et sous-traitants,**
+
+**Collectivités,**
+
+**Associations.**
 :::
 
 ::: {.g-col-12 .g-col-md-4 .card}
@@ -63,7 +73,12 @@ réception de chantiers, gestion des espèces envahissantes.
 État des lieux d'un site ou d'un territoire, SIG et cartographie thématique, structuration de données, indicateurs; 
 jusqu'à l'application web sur mesure qui automatise les rapports.
 
-#### Pour qui : collectivités, bureaux d'études, gestionnaires d'espaces naturels.
+### Pour qui :
+**Collectivités,**
+
+**Bureaux d'études,**
+
+**Gestionnaires d'espaces naturels.**
 :::
 
 ::: {.g-col-12 .g-col-md-4 .card}
@@ -73,7 +88,12 @@ jusqu'à l'application web sur mesure qui automatise les rapports.
 
 Techniques de restauration écologique, outils SIG, chantiers-écoles,accompagnement des équipes vers l'autonomie.
 
-#### Pour qui : équipes techniques, organisations professionnelles, associations
+### Pour qui :
+**Equipes techniques,** 
+
+**Associations,**
+
+**Organisations professionnelles**
 :::
 
 
@@ -81,7 +101,9 @@ Techniques de restauration écologique, outils SIG, chantiers-écoles,accompagne
 
 ## Comment on travaille ensemble
 
-Quatre formats selon le besoin : étude ponctuelle, suivi périodique,
+Plusieurs formats selon vos besoins : 
+
+étude ponctuelle, suivi périodique,
 sous-traitance d'un bureau d'études, renfort temporaire d'équipe.
 
 ::: {.grid}
