@@ -6,13 +6,14 @@ title: "Contact"
 ![Captage d'eau au creek Mindaï, bassin versant restauré](images/captage_eau_foret.jpg)
 :::
 
-Le moyen le plus simple de me joindre :
+Le moyen le plus simple de me joindre : terra.native.colab@gmail.com
 
 [Mon profil LinkedIn](https://www.linkedin.com/in/julia-lerno-causse)
 
 ## Zone d'intervention
 
 Montpellier — Nouvelle-Calédonie 
+
 Disponible pour découvrir de nouveaux écosystèmes avec vous
 
 {{< include _nav.qmd >}}

@@ -7,7 +7,7 @@ title: "Parcours"
 J'ai consacré vingt ans à la réhabilitation de sites dégradés en Nouvelle-Calédonie.
 
 Mon expertise couvre la gestion de projets environnementaux, 
-la revégétalisation de sites miniers et la restauration de la forêt sèche.
+la restauration écologique et la transition agro-écologique.
 
 Forte d’une expérience en gestion d’entreprise et en coordination de chantiers de grande
 envergure, je souhaite aujourd’hui mettre mes compétences au service de structures
@@ -43,11 +43,17 @@ Mes trois entreprises calédoniennes :
 
 - Mastère Spécialisé SILAT — AgroParisTech _  Montpellier
 Systèmes d'Information Localisés pour l'Aménagement des Territoires (en cours)
+
+
 - Master international ST2AE-GEEFT Option Data Manager, 
 Institut Agro Montpellier - AgroParisTech _  Montpellier (2023-2025)
+
 - Télépilote de drone, CATS _Formadrone (2026)
+
 - Agrément animateur de formation _ CNAM (2021)
-- Management général avancé,CESA Dirigeants de PME - HEC Paris (2013–2015)  
+
+- Management général avancé,CESA Dirigeants de PME - HEC Paris (2013–2015) 
+
 - BTSA Agronomie Tropicale _ LEGTA Guadeloupe (2000)
 
 [📄 Télécharger mon CV (PDF)](images/cv_lerno-causse-julia.pdf){.btn .btn-primary}
