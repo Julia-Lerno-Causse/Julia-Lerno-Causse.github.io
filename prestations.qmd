@@ -14,13 +14,14 @@ des livrables vérifiables.
 ::: {.grid}
 
 ::: {.g-col-12 .card}
-Vous êtes responsable d'un site — concession minière, parcelles
-revégétalisées, aire protégée, périmètre de captage — et vous devez rendre
+Vous êtes responsable d'un site (concession minière, parcelles
+revégétalisées, aire protégée, périmètre de captage) et vous devez rendre
 compte de l'évolution de sa végétation.
 
 J'établis un état zéro à une date de référence, puis je suis les changements
 à intervalle convenu, en croisant imagerie satellitaire (Sentinel-2), drone
-et relevés de terrain — interprétés en écologue : ce qui s'installe, ce qui
+et relevés de terrain; 
+interprétés en écologue : ce qui s'installe, ce qui
 régresse, ce qui doit être repris.
 
 **Vous recevez :** un rapport par site, auditable (images sources et dates,
@@ -31,8 +32,8 @@ une synthèse décideur d'une page.
 gestionnaires d'aires protégées, organismes de reboisement, bureaux d'études.
 
 **L'atout Terra NC :** vingt ans de chantiers de revégétalisation en
-Nouvelle-Calédonie (2001-2023) — j'interprète ce que les images montrent
-parce que j'ai planté, suivi et réceptionné ces chantiers sur le terrain.
+Nouvelle-Calédonie (2001-2023), j'interprète ce que les images montrent
+parce que j'ai l'expérience du terrain.
 
 **Modalités :** état zéro au forfait, puis suivi périodique (annuel ou
 saisonnier).
@@ -46,14 +47,14 @@ saisonnier).
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4 .card}
-![Paillage sur un chantier de restauration de forêt sèche](images/paillage_foret_seche.jpg)
+![Restauration de forêt sèche](images/paillage_foret_seche.jpg)
 
 ### Réhabilitation écologique — conseil et accompagnement
 
 Plans de restauration, choix d'espèces et d'itinéraires techniques, suivi et
 réception de chantiers, gestion des espèces envahissantes.
 
-*Pour qui : mineurs et sous-traitants, collectivités, associations.*
+### Pour qui : mineurs et sous-traitants, collectivités, associations.
 :::
 
 ::: {.g-col-12 .g-col-md-4 .card}
@@ -62,10 +63,10 @@ réception de chantiers, gestion des espèces envahissantes.
 ### Diagnostic territorial, cartographie et données
 
 État des lieux d'un site ou d'un territoire, SIG et cartographie thématique,
-structuration de données, indicateurs — jusqu'à l'application web sur mesure
+structuration de données, indicateurs; jusqu'à l'application web sur mesure
 qui automatise les rapports.
 
-*Pour qui : collectivités, bureaux d'études, gestionnaires d'espaces naturels.*
+### Pour qui : collectivités, bureaux d'études, gestionnaires d'espaces naturels.
 :::
 
 ::: {.g-col-12 .g-col-md-4 .card}
@@ -76,7 +77,7 @@ qui automatise les rapports.
 Techniques de restauration écologique, outils SIG, chantiers-écoles,
 accompagnement des équipes vers l'autonomie.
 
-*Pour qui : équipes techniques, organisations professionnelles.*
+### Pour qui : équipes techniques, organisations professionnelles, associations
 :::
 
 
