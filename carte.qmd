@@ -2,11 +2,10 @@
 title: "Carte des chantiers"
 ---
 
-Mes principaux sites de travail en Nouvelle-Calédonie (positions à l'échelle
-de la commune). 
+Mes principaux sites de travail en Nouvelle-Calédonie 
+(positions à l'échelle de la commune). 
 
-Fond plan ou satellite, détail et zoom au clic sur chaque
-point.
+Fond plan ou satellite, détail et zoom au clic sur chaque point.
 
 
 ```{r}

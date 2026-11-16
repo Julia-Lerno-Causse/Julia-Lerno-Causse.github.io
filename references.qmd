@@ -48,9 +48,11 @@ Koniambo Nickel SAS · Ballande · NMC
 ::: {.g-col-12 .g-col-md-4 .card}
 ### Institutions et collectivités
 
-Agence néo-calédonienne de la biodiversité · Commune de Houaïlou (projet
-PROTEGE) · Fonds Nickel / DIMENC · CPS Communauté du Pacifique · OFB
-Nouvelle-Calédonie
+· Agence néo-calédonienne de la biodiversité 
+· Commune de Houaïlou (projet PROTEGE) 
+· Fonds Nickel / DIMENC 
+· DDEE Province Nord  
+· OFB Nouvelle-Calédonie
 :::
 
 ::: {.g-col-12 .g-col-md-4 .card}

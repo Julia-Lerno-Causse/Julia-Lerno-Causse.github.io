@@ -2,7 +2,7 @@
 title: "Réalisations"
 ---
 
-Une sélection de projets menés au sein de mes entreprises en Nouvelle-Calédonie (2003-2023),\
+Une sélection de projets menés au sein de mes entreprises en Nouvelle-Calédonie (2003-2023),
 
 puis dans le cadre de ma spécialisation en géomatique (depuis 2023).
 
@@ -17,8 +17,10 @@ Cliquez sur une photo pour l'agrandir.
 ### Restauration de la forêt sèche
 Côte Ouest Vavouto, (2009-2020) pour Koniambo Nickel SAS.
 
-Production et plantation de plus de 25 000 plants par an, 
+Production et plantation de plus de 25 000 plants par an,
+
 semences collectées aux abords des zones à restaurer, 
+
 expérimentation d'itinéraires techniques et mise en défens anti-cerfs.
 :::
 ::: {.g-col-12 .g-col-md-5}
@@ -31,6 +33,7 @@ expérimentation d'itinéraires techniques et mise en défens anti-cerfs.
 ::: {.g-col-12 .g-col-md-12}
 ### Réhabilitation du bassin versant du creek Mindaï
 Tribu de Bâ, Houaïlou, (2021-2023) commune de Houaïlou, projet PROTEGE.
+
 Suppression de 10 ha de pins envahissants, 
 reboisement de 12 ha avec 12 000 plants endémiques, 
 2 000 mètres de clôtures anti-cerfs et cochons,
@@ -48,9 +51,13 @@ participation des populations locales aux plantations et au suivi.
 2003-2023, acteurs miniers et collectivités (KNS, Ballande, NMC...).
 
 Production annuelle de 80 000 plants endémiques,
+
 plantation de 30 000 plants par an, 
+
 semis hydraulique (20 000 m² par an), 
+
 pose de boudins et géofilets, travaux sur corde, 
+
 suivi phénologique d'espèces rares.
 :::
 ::: {.g-col-12 .g-col-md-6}
@@ -75,10 +82,12 @@ suivi phénologique d'espèces rares.
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-7}
-### Production de plants endémiques
-Pépinières de Kataviti (Koné) et de la tribu de Tiwae (Touho), 2003-2023.
+### Production de plants endémiques 2003-2023
+Pépinières: au pied du massif du Koniambo (Koné) et de la tribu de Tiwae (Touho),
+
+
 Capacité de 200 000 plants, environ 300 espèces produites, 
-recherche surla multiplication des espèces endémiques.
+recherche sur la multiplication des espèces endémiques.
 :::
 ::: {.g-col-12 .g-col-md-5}
 ![L'équipe de la pépinière](images/equipe_pepiniere.jpg)
@@ -93,8 +102,8 @@ recherche surla multiplication des espèces endémiques.
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-12}
-### Formations aux métiers du végétal et de la restauration écologique
-CFPPA de Pouembout (2010-2020), environ 50 h par an, 8 à 12 apprenants par module :
+### Formations aux métiers du végétal et de la restauration écologique (2010-2020)
+CFPPA de Pouembout, environ 50 h par an, 8 à 12 apprenants par module :
 
 semis, greffage, repiquage, collecte de semences, reconnaissance d'espèces, plantation.
 :::
@@ -105,8 +114,9 @@ semis, greffage, repiquage, collecte de semences, reconnaissance d'espèces, pla
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-}
-### Chantier école de revégétalisation
-Ancien site minier de Bel-Air, Houaïlou, 2022 — Fonds Nickel, DIMENC.
+### Chantier école de revégétalisation (2022)
+Ancien site minier de Bel-Air, Houaïlou,  Fonds Nickel, DIMENC.
+
 3 238 plants d'espèces indigènes et endémiques, 1 821 m² de semis
 hydraulique, formation des participants aux techniques de plantation.
 :::
@@ -121,7 +131,8 @@ hydraulique, formation des participants aux techniques de plantation.
 ## Géomatique & applications
 
 ### Application web de diagnostic de déforestation
-Mission professionnelle, Nitidæ, Montpellier, 2026-2027.
+Mission professionnelle, Nitidæ N'Lab, Montpellier, 2026-2027.
+
 Conception et développement d'une application de diagnostic
 « zéro-déforestation » sur parcelles cultivées, dans le contexte du
 règlement européen RDUE : croisement de cartes forestières de référence,
